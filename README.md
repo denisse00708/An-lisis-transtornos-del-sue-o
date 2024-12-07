@@ -1,0 +1,1 @@
+En este repositorio se encuntra el código disponible en https://www.kaggle.com/code/soumyag09/sleep-disorder, el cúal fue modificado con fines académicos con el objetivo de comprender y mostrar propuestas de mejora y adición de modelos ML.
